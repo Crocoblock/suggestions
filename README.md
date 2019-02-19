@@ -20,7 +20,7 @@ All the suggestions should be added in the form of issues.
       <li>click <strong>submit</strong> button to submit a request.</li>
    </ol>
 
-<h3Documentation sources</h3>
+<h3>Documentation sources</h3>
 
 Before adding a new suggestion, make sure you've visited:
 <ul>
