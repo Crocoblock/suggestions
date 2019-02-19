@@ -12,7 +12,7 @@ All the suggestions should be added in the form of issues.
 
 To add a new suggestion, please, use this <strong><a href="https://github.com/CrocoBlock/suggestions/issues " rel="nofollow">link</a></strong>.
 
-Please, before adding a new suggestion, make sure you've visited:
+Before adding a new suggestion, make sure you've visited:
 <ul>
 <li><a href="https://documentation.crocoblock.com/" rel="nofollow">CrocoBlock documentation</a>;</li>
 <li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetelements" rel="nofollow">JetElements documentation</a>;</li>
@@ -29,9 +29,11 @@ Please, before adding a new suggestion, make sure you've visited:
 <li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetsearch" rel="nofollow">JetSearch documentation</a>;</li>
 <li><a href="http://documentation.zemez.io/wordpress/index.php?project=jettricks" rel="nofollow">JeTricks documentation</a>.</li>
 </ul>
-<p>If you haven't found the needed feature, please, check if there are already any suggestions for it in the Issues block. If not, feel free to submit an issue. </p>
+<p>If you haven't found the needed feature, please, check if there are already any requests for it in the Issues block. If not, feel free to submit it. </p>
 
-https://kava.ticksy.com/
+<p>In case you need any assistance from CrocoBlock team, we provide <strong>24/7 support<strong>. Feel free to use <strong><a href="https://kava.ticksy.com/" rel="nofollow">ticket system</a></strong> to get assistance.</p>
+
+
 
 
 
