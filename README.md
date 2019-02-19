@@ -10,7 +10,19 @@ All the suggestions should be added in the form of issues.
 
 <h3>How to add a suggestion?</h3>
 
-To add a new suggestion, please, use this <strong><a href="https://github.com/CrocoBlock/suggestions/issues " rel="nofollow">link</a></strong>.
+<ol>
+<li>To add a new suggestion, please, use this <strong><a href="https://github.com/CrocoBlock/suggestions/issues " rel="nofollow">link</a></strong>.</li>
+  <li>Click <strong>New issue</strong> button on the right and proceed to creating a new issue:
+    <ul>
+      <li>fill in the gist of the request;</li>
+      <li>describe the feature request in more details;</li>
+      <li>click <strong>labels</strong> cogwheel icon on the right to access the labels list and select the one that matches the suggestion;</li>
+      <li>click <strong>submit</strong> button to submit a request.</li>
+      </li></ol>
+
+https://github.com/CrocoBlock/suggestions/issues/new
+
+
 
 Before adding a new suggestion, make sure you've visited:
 <ul>
