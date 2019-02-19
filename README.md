@@ -47,7 +47,7 @@ Before adding a new suggestion, make sure you've visited:
 
 <h3>Changelog</h3>
 
-To learn more about the updates and releases coming out weekly at CrocoBlock, check our <strong><a href="https://crocoblock.com/changelog/" rel="nofollow">changelog</a></stroing>.
+To learn more about the updates and releases coming out weekly at CrocoBlock, check our <strong><a href="https://crocoblock.com/changelog/" rel="nofollow">changelog</a></strong>.
 
 <h3>Knowledge Base</h3>
 
