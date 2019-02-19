@@ -1,8 +1,8 @@
-# suggestions
+# Suggestions for CrocoBlock
 
 <h3>Welcome to CrocoBlock Suggestions</h3>
 
-Our official site is <a href="https://crocoblock.com/" rel="nofollow">CrocoBlock</a>.
+Our official site is <strong><a href="https://crocoblock.com/" rel="nofollow">CrocoBlock</a></strong>.
 
 If you've got CrocoBlock subscription, this is the right place where you can submit your <strong>suggestions</strong> concerining any <strong>CrocoBlock products</strong>. 
 
@@ -10,7 +10,7 @@ All the suggestions should be added in the form of issues.
 
 <h3>How to add a suggestion?</h3>
 
-To add a new suggestion, please, use this <a href="https://github.com/CrocoBlock/suggestions/issues " rel="nofollow">link</a>.
+To add a new suggestion, please, use this <strong><a href="https://github.com/CrocoBlock/suggestions/issues " rel="nofollow">link</a></strong>.
 
 Please, before adding a new suggestion, make sure you've visited:
 <ul>
@@ -29,6 +29,8 @@ Please, before adding a new suggestion, make sure you've visited:
 <li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetsearch" rel="nofollow">JetSearch documentation</a>;</li>
 <li><a href="http://documentation.zemez.io/wordpress/index.php?project=jettricks" rel="nofollow">JeTricks documentation</a>.</li>
 </ul>
+
+
 https://kava.ticksy.com/
 
 
