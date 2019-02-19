@@ -4,7 +4,7 @@
 
 Our official site is <strong><a href="https://crocoblock.com/" rel="nofollow">CrocoBlock</a></strong>.
 
-If you've got CrocoBlock subscription, this is the right place where you can submit your <strong>suggestions</strong> concerining any <strong>CrocoBlock products</strong>. 
+If you've got CrocoBlock subscription, this is the right place where you can submit your <strong>suggestions</strong> concerning any <strong>CrocoBlock products</strong>. 
 
 All the suggestions should be added in the form of issues.
 
@@ -29,7 +29,7 @@ Please, before adding a new suggestion, make sure you've visited:
 <li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetsearch" rel="nofollow">JetSearch documentation</a>;</li>
 <li><a href="http://documentation.zemez.io/wordpress/index.php?project=jettricks" rel="nofollow">JeTricks documentation</a>.</li>
 </ul>
-
+<p>If you haven't found the needed feature, please, check if there are already any suggestions for it in the Issues block. If not, feel free to submit an issue. </p>
 
 https://kava.ticksy.com/
 
