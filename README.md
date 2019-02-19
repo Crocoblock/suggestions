@@ -15,8 +15,8 @@ All the suggestions should be added in the form of issues.
   <li>Click <strong>New issue</strong> button on the right and proceed to creating a new issue:
     <ul>
       <li>fill in the gist of the request;</li>
-      <li>describe the feature request in more details;</li>
-      <li>click <strong>labels</strong> cogwheel icon on the right to access the labels list and select the one that matches the suggestion;</li></ul></li>
+      <li>describe the feature request in more details;</li></ul></li>
+   
       <li>click <strong>submit</strong> button to submit a request.</li>
    </ol>
 
