@@ -16,13 +16,11 @@ All the suggestions should be added in the form of issues.
     <ul>
       <li>fill in the gist of the request;</li>
       <li>describe the feature request in more details;</li>
-      <li>click <strong>labels</strong> cogwheel icon on the right to access the labels list and select the one that matches the suggestion;</li>
+      <li>click <strong>labels</strong> cogwheel icon on the right to access the labels list and select the one that matches the suggestion;</li></ul></li>
       <li>click <strong>submit</strong> button to submit a request.</li>
-      </li></ol>
+   </ol>
 
-https://github.com/CrocoBlock/suggestions/issues/new
-
-
+<h3Documentation sources</h3>
 
 Before adding a new suggestion, make sure you've visited:
 <ul>
@@ -42,6 +40,8 @@ Before adding a new suggestion, make sure you've visited:
 <li><a href="http://documentation.zemez.io/wordpress/index.php?project=jettricks" rel="nofollow">JeTricks documentation</a>.</li>
 </ul>
 <p>If you haven't found the needed feature, please, check if there are already any requests for it in the Issues block. If not, feel free to submit it. </p>
+
+<h3>Support</h3>
 
 <p>In case you need any assistance from CrocoBlock team, we provide <strong>24/7 support</strong>. Feel free to use <strong><a href="https://kava.ticksy.com/" rel="nofollow">ticket system</a></strong> to get assistance.</p>
 
