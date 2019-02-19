@@ -51,7 +51,7 @@ To learn more about the updates and releases coming out weekly at CrocoBlock, ch
 
 <h3>Knowledge Base</h3>
 
-For more cases, guides and tiutorials related to CrocoBlock, check:
+For more cases, guides and tutorials related to CrocoBlock, check:
 
 <ul>
   <li><strong><a href="https://www.youtube.com/watch?v=APz7aaGc2yE&list=PLdaVCVrkty72g_9pu4-tRJ0j_cc01PqUXhttps://crocoblock.com/changelog/" rel="nofollow">video tutorials</a></strong>;</li>
