@@ -16,7 +16,7 @@ All the suggestions should be added in the form of issues.
     <ul>
       <li>fill in the gist of the request;</li>
       <li>describe the feature request in more details.</li></ul></li>
-      <li>click <strong>submit</strong> button to submit a request.</li>
+      <li>Click <strong>submit</strong> button to submit a request.</li>
    </ol>
 
 <h3>Documentation sources</h3>
