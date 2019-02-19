@@ -31,10 +31,8 @@ Before adding a new suggestion, make sure you've visited:
 </ul>
 <p>If you haven't found the needed feature, please, check if there are already any requests for it in the Issues block. If not, feel free to submit it. </p>
 
-<p>In case you need any assistance from CrocoBlock team, we provide <strong>24/7 support<strong>. Feel free to use <strong><a href="https://kava.ticksy.com/" rel="nofollow">ticket system</a></strong> to get assistance.</p>
+<p>In case you need any assistance from CrocoBlock team, we provide <strong>24/7 support</strong>. Feel free to use <strong><a href="https://kava.ticksy.com/" rel="nofollow">ticket system</a></strong> to get assistance.</p>
 
-<figure class="img-preview" style="width: 124px;"><a href="http://documentation.zemez.io/wordpress/index.php?project=jetpopup" target="_blank" rel="noopener"><img class="aligncenter" src="
-http://documentation.zemez.io/wordpress/projects/jetpopup/img/logo_jetpopup.png" alt="JetElements"></a></figure>
 
 
 
