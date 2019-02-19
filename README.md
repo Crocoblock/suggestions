@@ -1,5 +1,5 @@
 # Suggestions for CrocoBlock
-
+<img src="https://camo.githubusercontent.com/7f7cd4b4eef883416d129cf475a50704acd9b3ac/68747470733a2f2f696d672e736869656c64732e696f2f776f726470726573732f706c7567696e2f762f656c656d656e746f722e7376673f7374796c653d666c61742d737175617265" alt="WordPress" data-canonical-src="https://img.shields.io/badge/-v.1.15.2-brightgreen.svg?style=flat-square" style="max-width:100%;">
 <h3>Welcome to CrocoBlock Suggestions</h3>
 
 Our official site is <strong><a href="https://crocoblock.com/" rel="nofollow">CrocoBlock</a></strong>.
