@@ -1,5 +1,5 @@
 # Suggestions for CrocoBlock
-<img src="https://img.shields.io/badge/-v.1.15.2-brightgreen.svg?style=popout&logo=appveyor" style="max-width:100%;">
+<img src="https://img.shields.io/badge/-v.1.15.2-brightgreen.svg?style=popout" style="max-width:100%;">
 <h3>Welcome to CrocoBlock Suggestions</h3>
 
 Our official site is <strong><a href="https://crocoblock.com/" rel="nofollow">CrocoBlock</a></strong>.
