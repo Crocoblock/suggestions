@@ -36,6 +36,7 @@ Before adding a new suggestion, make sure you've visited:
 <li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetcomparewishlist" rel="nofollow">JetCompareWishlist documentation</a>;</li>
 <li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetcomparewishlist" rel="nofollow">JetProductGallery documentation</a>;</li>
 <li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetsearch" rel="nofollow">JetSearch documentation</a>;</li>
+  <li><a href="https://documentation.zemez.io/wordpress/index.php?project=jetengine" rel="nofollow">JetEngine documentation</a>;</li>
 <li><a href="http://documentation.zemez.io/wordpress/index.php?project=jettricks" rel="nofollow">JeTricks documentation</a>.</li>
 </ul>
 <p>If you haven't found the needed feature, please, check if there are already any requests for it in the Issues block. If not, feel free to submit it. </p>
