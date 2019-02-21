@@ -8,6 +8,11 @@ If you've got CrocoBlock subscription, this is the right place where you can sub
 
 All the suggestions should be added in the form of issues.
 
+<strong>Please, note, that it is strongly recommended to use English language only when placing a suggestion!</strong> 
+It is a rule that ensures that everyone can understand the requests already added, and will eventually help avoid duplicated requests.
+
+<strong>Important:</strong> All the suggestions added in any other language won't be handled and will be eventually closed. 
+
 <h3>How to add a suggestion?</h3>
 
 <ol>
