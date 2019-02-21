@@ -9,10 +9,9 @@ assignees: ''
 
 **Before adding a new feature request, please, make sure you’ve checked:**
 
-<ul>
-<li>if the feature is already added to the backlog or in work;</li>
-<li>if the feature is missing from the products.</li>
-</ul>
+
+- if the feature is already added to the backlog or in work;
+- if the feature is missing from the products.
 
 **Please, describe the feature request, making it clear to understand.**
 
