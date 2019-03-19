@@ -39,7 +39,7 @@ Before adding a new suggestion, make sure you've visited:
 <li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetwoobuilder" rel="nofollow">JetWooBuilder documentation</a>;</li>
 <li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetsmartfilters" rel="nofollow">JetSmartFilters documentation</a>;</li>
 <li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetcomparewishlist" rel="nofollow">JetCompareWishlist documentation</a>;</li>
-<li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetcomparewishlist" rel="nofollow">JetProductGallery documentation</a>;</li>
+<li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetproductgallery" rel="nofollow">JetProductGallery documentation</a>;</li>
 <li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetsearch" rel="nofollow">JetSearch documentation</a>;</li>
   <li><a href="https://documentation.zemez.io/wordpress/index.php?project=jetengine" rel="nofollow">JetEngine documentation</a>;</li>
 <li><a href="http://documentation.zemez.io/wordpress/index.php?project=jettricks" rel="nofollow">JeTricks documentation</a>.</li>
