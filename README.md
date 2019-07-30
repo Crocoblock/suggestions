@@ -1,4 +1,4 @@
-# Suggestions for CrocoBlock
+# Suggestions for Crocoblock
 
 <h3>Welcome to CrocoBlock Suggestions</h3>
 
