@@ -28,8 +28,8 @@ It is a rule that ensures that everyone can understand the requests already adde
 
 Before adding a new suggestion, make sure you've visited:
 <ul>
-<li><a href="https://documentation.crocoblock.com/" rel="nofollow">Crocoblock documentation</a>;</li>
-<li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetelements" rel="nofollow">JetElements documentation</a>;</li>
+<li><a href="https://crocoblock.com/knowledge-base/" rel="nofollow">Crocoblock Knowledge Base</a>;</li>
+<li><a href="https://crocoblock.com/knowledge-base/article-category/jet-elements/" rel="nofollow">JetElements</a>;</li>
 <li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetmenu" rel="nofollow">JetMenu documentation</a>;</li>
 <li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetblog" rel="nofollow">JetBlog documentation</a>;</li>
 <li><a href="http://documentation.zemez.io/wordpress/index.php?project=jettabs" rel="nofollow">JetTabs documentation</a>;</li>
