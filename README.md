@@ -2,7 +2,7 @@
 
 <h3>Welcome to Crocoblock Suggestions</h3>
 
-Our official site is <strong><a href="https://crocoblock.com/" rel="nofollow">CrocoBlock</a></strong>.
+Our official site is <strong><a href="https://crocoblock.com/" rel="nofollow">Crocoblock</a></strong>.
 
 If you've got Crocoblock subscription, this is the right place where you can submit your <strong>suggestions</strong> concerning any <strong>Crocoblock products</strong>. 
 
