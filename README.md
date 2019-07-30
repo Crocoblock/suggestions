@@ -30,19 +30,19 @@ Before adding a new suggestion, make sure you've visited:
 <ul>
 <li><a href="https://crocoblock.com/knowledge-base/" rel="nofollow">Crocoblock Knowledge Base</a>;</li>
 <li><a href="https://crocoblock.com/knowledge-base/article-category/jet-elements/" rel="nofollow">JetElements</a>;</li>
-<li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetmenu" rel="nofollow">JetMenu documentation</a>;</li>
-<li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetblog" rel="nofollow">JetBlog documentation</a>;</li>
-<li><a href="http://documentation.zemez.io/wordpress/index.php?project=jettabs" rel="nofollow">JetTabs documentation</a>;</li>
-<li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetreviews" rel="nofollow">JetReviews documentation</a>;</li>
-<li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetblocks" rel="nofollow">JetBlocks documentation</a>;</li>
-<li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetpopup" rel="nofollow">JetPopup documentation</a>;</li>
-<li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetwoobuilder" rel="nofollow">JetWooBuilder documentation</a>;</li>
-<li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetsmartfilters" rel="nofollow">JetSmartFilters documentation</a>;</li>
-<li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetcomparewishlist" rel="nofollow">JetCompareWishlist documentation</a>;</li>
-<li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetproductgallery" rel="nofollow">JetProductGallery documentation</a>;</li>
-<li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetsearch" rel="nofollow">JetSearch documentation</a>;</li>
-  <li><a href="https://documentation.zemez.io/wordpress/index.php?project=jetengine" rel="nofollow">JetEngine documentation</a>;</li>
-<li><a href="http://documentation.zemez.io/wordpress/index.php?project=jettricks" rel="nofollow">JeTricks documentation</a>.</li>
+<li><a href="https://crocoblock.com/knowledge-base/article-category/jet-menu/" rel="nofollow">JetMenu</a>;</li>
+<li><a href="https://crocoblock.com/knowledge-base/article-category/jet-blog/" rel="nofollow">JetBlog</a>;</li>
+<li><a href="https://crocoblock.com/knowledge-base/article-category/jet-tabs/">JetTabs</a>;</li>
+<li><a href="https://crocoblock.com/knowledge-base/article-category/jetreviews/">JetReviews</a>;</li>
+<li><a href="https://crocoblock.com/knowledge-base/article-category/jetblocks/" rel="nofollow">JetBlocks</a>;</li>
+<li><a href="https://crocoblock.com/knowledge-base/article-category/jet-popup/" rel="nofollow">JetPopup</a>;</li>
+<li><a href="https://crocoblock.com/knowledge-base/article-category/jetwoobuilder/">JetWooBuilder</a>;</li>
+<li><a href="https://crocoblock.com/knowledge-base/article-category/jetsmartfilters/" rel="nofollow">JetSmartFilters</a>;</li>
+<li><a href="https://crocoblock.com/knowledge-base/article-category/jetcomparewishlist/">JetCompareWishlist</a>;</li>
+<li><a href="https://crocoblock.com/knowledge-base/article-category/jetproductgallery/">JetProductGallery</a>;</li>
+<li><a href="https://crocoblock.com/knowledge-base/article-category/jet-search/">JetSearch</a>;</li>
+  <li><a href="https://crocoblock.com/knowledge-base/article-category/jet-engine/" rel="nofollow">JetEngine</a>;</li>
+<li><a href="https://crocoblock.com/knowledge-base/article-category/jettricks/" rel="nofollow">JeTricks documentation</a>.</li>
 </ul>
 <p>If you haven't found the needed feature, please, check if there are already any requests for it in the Issues block. If not, feel free to submit it. </p>
 
