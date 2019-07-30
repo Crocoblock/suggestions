@@ -48,7 +48,7 @@ Before adding a new suggestion, make sure you've visited:
 
 <h3>Support</h3>
 
-<p>In case you need any assistance from Crocoblock team, we provide <strong>24/7 support</strong>. Feel free to use <strong><a href="https://kava.ticksy.com/" rel="nofollow">ticket system</a></strong> to get assistance.</p>
+<p>In case you need any assistance from Crocoblock team, we provide <strong>24/7 support</strong>. Feel free to use <strong><a href="https://support.crocoblock.com/support" rel="nofollow">ticket system</a></strong> to get assistance.</p>
 
 <h3>Changelog</h3>
 
@@ -60,7 +60,7 @@ For more cases, guides and tutorials related to Crocoblock, check:
 
 <ul>
   <li><strong><a href="https://www.youtube.com/watch?v=APz7aaGc2yE&list=PLdaVCVrkty72g_9pu4-tRJ0j_cc01PqUXhttps://crocoblock.com/changelog/" rel="nofollow">video tutorials</a></strong>;</li>
-  <li><strong><a href="https://crocoblock.com/school/" rel="nofollow">knowledge base</a></strong>.</li>
+  <li><strong><a href="https://crocoblock.com/knowledge-base/" rel="nofollow">knowledge base</a></strong>.</li>
  </ul>
 
 
