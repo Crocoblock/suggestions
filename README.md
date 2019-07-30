@@ -41,8 +41,9 @@ Before adding a new suggestion, make sure you've visited:
 <li><a href="https://crocoblock.com/knowledge-base/article-category/jetcomparewishlist/">JetCompareWishlist</a>;</li>
 <li><a href="https://crocoblock.com/knowledge-base/article-category/jetproductgallery/">JetProductGallery</a>;</li>
 <li><a href="https://crocoblock.com/knowledge-base/article-category/jet-search/">JetSearch</a>;</li>
+  <li><a href="https://crocoblock.com/knowledge-base/article-category/jetbooking/">JetBooking</a>;</li>
   <li><a href="https://crocoblock.com/knowledge-base/article-category/jet-engine/" rel="nofollow">JetEngine</a>;</li>
-<li><a href="https://crocoblock.com/knowledge-base/article-category/jettricks/" rel="nofollow">JeTricks documentation</a>.</li>
+<li><a href="https://crocoblock.com/knowledge-base/article-category/jettricks/" rel="nofollow">JetTricks</a>.</li>
 </ul>
 <p>If you haven't found the needed feature, please, check if there are already any requests for it in the Issues block. If not, feel free to submit it. </p>
 
