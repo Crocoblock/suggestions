@@ -48,7 +48,7 @@ Before adding a new suggestion, make sure you've visited:
 
 <h3>Support</h3>
 
-<p>In case you need any assistance from Crocoblock team, we provide <strong>24/7 support</strong>. Feel free to use <strong><a href="https://support.crocoblock.com/support" rel="nofollow">ticket system</a></strong> to get assistance.</p>
+<p>In case you need any assistance from Crocoblock team, we provide <strong>professional support</strong>. Feel free to use <strong><a href="https://support.crocoblock.com" rel="nofollow">ticket system</a></strong> to get assistance.</p>
 
 <h3>Changelog</h3>
 
