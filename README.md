@@ -24,7 +24,7 @@ It is a rule that ensures that everyone can understand the requests already adde
       <li>Click <strong>submit</strong> button to submit a request.</li>
    </ol>
 
-<h3>Documentation sources</h3>
+<h3>Knowledge base</h3>
 
 Before adding a new suggestion, make sure you've visited:
 <ul>
