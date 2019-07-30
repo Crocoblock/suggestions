@@ -1,10 +1,10 @@
 # Suggestions for Crocoblock
 
-<h3>Welcome to CrocoBlock Suggestions</h3>
+<h3>Welcome to Crocoblock Suggestions</h3>
 
 Our official site is <strong><a href="https://crocoblock.com/" rel="nofollow">CrocoBlock</a></strong>.
 
-If you've got CrocoBlock subscription, this is the right place where you can submit your <strong>suggestions</strong> concerning any <strong>CrocoBlock products</strong>. 
+If you've got Crocoblock subscription, this is the right place where you can submit your <strong>suggestions</strong> concerning any <strong>Crocoblock products</strong>. 
 
 All the suggestions should be added in the form of issues.
 
@@ -28,7 +28,7 @@ It is a rule that ensures that everyone can understand the requests already adde
 
 Before adding a new suggestion, make sure you've visited:
 <ul>
-<li><a href="https://documentation.crocoblock.com/" rel="nofollow">CrocoBlock documentation</a>;</li>
+<li><a href="https://documentation.crocoblock.com/" rel="nofollow">Crocoblock documentation</a>;</li>
 <li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetelements" rel="nofollow">JetElements documentation</a>;</li>
 <li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetmenu" rel="nofollow">JetMenu documentation</a>;</li>
 <li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetblog" rel="nofollow">JetBlog documentation</a>;</li>
@@ -48,15 +48,15 @@ Before adding a new suggestion, make sure you've visited:
 
 <h3>Support</h3>
 
-<p>In case you need any assistance from CrocoBlock team, we provide <strong>24/7 support</strong>. Feel free to use <strong><a href="https://kava.ticksy.com/" rel="nofollow">ticket system</a></strong> to get assistance.</p>
+<p>In case you need any assistance from Crocoblock team, we provide <strong>24/7 support</strong>. Feel free to use <strong><a href="https://kava.ticksy.com/" rel="nofollow">ticket system</a></strong> to get assistance.</p>
 
 <h3>Changelog</h3>
 
-To learn more about the updates and releases coming out weekly at CrocoBlock, check our <strong><a href="https://crocoblock.com/changelog/" rel="nofollow">changelog</a></strong>.
+To learn more about the updates and releases coming out weekly at Crocoblock, check our <strong><a href="https://crocoblock.com/changelog/" rel="nofollow">changelog</a></strong>.
 
 <h3>Knowledge Base</h3>
 
-For more cases, guides and tutorials related to CrocoBlock, check:
+For more cases, guides and tutorials related to Crocoblock, check:
 
 <ul>
   <li><strong><a href="https://www.youtube.com/watch?v=APz7aaGc2yE&list=PLdaVCVrkty72g_9pu4-tRJ0j_cc01PqUXhttps://crocoblock.com/changelog/" rel="nofollow">video tutorials</a></strong>;</li>
