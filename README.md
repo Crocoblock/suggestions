@@ -60,7 +60,7 @@ To learn more about the updates and releases coming out weekly at Crocoblock, ch
 For more cases, guides and tutorials related to Crocoblock, check:
 
 <ul>
-  <li><strong><a href="https://www.youtube.com/watch?v=APz7aaGc2yE&list=PLdaVCVrkty72g_9pu4-tRJ0j_cc01PqUXhttps://crocoblock.com/changelog/" rel="nofollow">video tutorials</a></strong>;</li>
+  <li><strong><a href="https://www.youtube.com/channel/UClbIlkP6078-DapTSPwYy7Q" rel="nofollow">video tutorials</a></strong>;</li>
   <li><strong><a href="https://crocoblock.com/knowledge-base/" rel="nofollow">knowledge base</a></strong>.</li>
  </ul>
 
